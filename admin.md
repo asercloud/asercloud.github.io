@@ -3,22 +3,22 @@ This page build for Admins and Developers.
 
 All pages:
 
-pntang.github.io
+https://pntang.github.io
 
-aserchrome.github.io
+https://aserchrome.github.io
 
-asercloud.github.io
+https://asercloud.github.io
 
-sprinkleos.github.io
+https://sprinkleos.github.io
 
-sprinklerun.github.io
+https://sprinklerun.github.io
 
-sprinkleguide.github.io
+https://sprinkleguide.github.io
 
-sprinklesnake.github.io
+https://sprinklesnake.github.io
 
-sprinklelive.github.io
+https://sprinklelive.github.io
 
-sprinklelivedark.github.io
+https://sprinklelivedark.github.io
 
-sptestdownload.github.io
+https://sptestdownload.github.io
